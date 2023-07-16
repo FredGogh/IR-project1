@@ -5,5 +5,7 @@ This is a course project of information retrieval. It is mainly a local search e
 
 # 代码介绍
 search：各种查询方式的实现代码。
+
 utils：其他功能实现代码，如高亮、加密等功能实现。
+
 WEB：前端代码以及图片。
